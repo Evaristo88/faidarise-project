@@ -1,0 +1,10 @@
+---
+import MainLayout from '../layouts/MainLayout.astro';
+import Dashboard from '../components/Dashboard';
+---
+
+<MainLayout title="Dashboard">
+  <main>
+    <Dashboard client:only="react" />
+  </main>
+</MainLayout>

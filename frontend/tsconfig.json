@@ -1,0 +1,7 @@
+{
+  "compilerOptions": {
+    "esModuleInterop": true,
+    "allowSyntheticDefaultImports": true, // Optional but recommended
+    "jsx": "react-jsx" // Ensure this is set for React 17+ or React 18
+  }
+}
