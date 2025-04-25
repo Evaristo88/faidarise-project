@@ -1,5 +1,3 @@
-Here's a well-structured **README.md** file for your **Sports Odds Dashboard** project:
-
 ```markdown
 # Sports Odds Dashboard
 
